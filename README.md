@@ -1,9 +1,9 @@
 # Virgile : An agnostic PHP Router
 
-[![build](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml/badge.svg?job=build)](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml)
-[![static analysis](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml/badge.svg?job=static%20analysis)](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml)
-[![coverage](https://codecov.io/gh/str8lines-io/virgile-routing/graph/badge.svg)](https://codecov.io/gh/str8lines-io/virgile-routing)
-[![style check](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml/badge.svg?job=style%20check)](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml)
+[![build](https://img.shields.io/github/actions/workflow/status/str8lines-io/virgile-routing/ci.yml?branch=main&job=build&label=build)](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml)
+[![static analysis](https://img.shields.io/github/actions/workflow/status/str8lines-io/virgile-routing/ci.yml?branch=main&job=static%20analysis&label=static%20analysis)](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/str8lines-io/virgile-routing/graph/badge.svg)](https://codecov.io/gh/str8lines-io/virgile-routing)
+[![style check](https://img.shields.io/github/actions/workflow/status/str8lines-io/virgile-routing/ci.yml?branch=main&job=style%20check&label=style%20check)](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml)
 
 [![PHPStan](https://img.shields.io/badge/PHPStan-level%20max-brightgreen.svg)](https://phpstan.org/)
 [![PHP Version](https://img.shields.io/badge/PHP-8.4-blue.svg)](https://php.net)
