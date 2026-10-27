@@ -1,5 +1,14 @@
 # Virgile : An agnostic PHP Router
 
+[![build](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml/badge.svg?job=build)](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml)
+[![static analysis](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml/badge.svg?job=static%20analysis)](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml)
+[![coverage](https://codecov.io/gh/str8lines-io/virgile-routing/graph/badge.svg)](https://codecov.io/gh/str8lines-io/virgile-routing)
+[![style check](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml/badge.svg?job=style%20check)](https://github.com/str8lines-io/virgile-routing/actions/workflows/ci.yml)
+
+[![PHPStan](https://img.shields.io/badge/PHPStan-level%20max-brightgreen.svg)](https://phpstan.org/)
+[![PHP Version](https://img.shields.io/badge/PHP-8.4-blue.svg)](https://php.net)
+[![License](https://img.shields.io/github/license/str8lines-io/virgile-routing)](https://github.com/str8lines-io/virgile-routing/blob/main/LICENSE)
+
 A lightweight, high-performance, and strictly decoupled routing engine for PHP, designed with immutability and strict data encapsulation.
 
 ## Features
