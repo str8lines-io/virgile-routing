@@ -1,0 +1,16 @@
+services:
+  virgile:
+    build: 
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: virgile-routing
+    volumes:
+      - ./:/app
+    environment:
+      - COMPOSER_ALLOW_SUPERUSER=1
+
+  phpdoc:
+    image: phpdoc/phpdoc:latest
+    volumes:
+      - .:/data
+    command: -d src -t docs

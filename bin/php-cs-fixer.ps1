@@ -1,0 +1,1 @@
+docker compose run --rm virgile vendor/bin/php-cs-fixer @args

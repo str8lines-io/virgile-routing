@@ -1,0 +1,1 @@
+docker compose run --rm phpdoc @args
