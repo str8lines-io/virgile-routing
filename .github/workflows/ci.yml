@@ -28,7 +28,7 @@ jobs:
           coverage: xdebug
 
       - name: Validate composer.json and composer.lock
-        uses: php-actions/composer-validate@v6
+        run: composer validate --strict
 
       - name: Install dependencies
         run: composer install --prefer-dist --no-progress --no-interaction
